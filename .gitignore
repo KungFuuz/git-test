@@ -1,5 +1,5 @@
 #wimdows environment
-.env
+*.env
 
 #Compiled class file
-/class
+*.class
